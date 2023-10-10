@@ -1,5 +1,5 @@
 전사와 마법사 전투
-```
+```java
 package homework;
 
 import java.util.Random;
