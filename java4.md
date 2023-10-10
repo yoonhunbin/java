@@ -1,5 +1,5 @@
 가위바위보 5판3선승제
-```
+```java
 package homework;
 
 import java.util.*;
@@ -68,7 +68,7 @@ public class Myprofile4 {
     } 
 ```
 격투게임 무조건 1명이상 쓰러져야함
-```
+```java
 package homework;
 
 import java.util.Random;
@@ -116,7 +116,7 @@ public class Myprofile5 {
 }
 ```
 좀비탈출게임
-```
+```java
 age homework;
 
 import java.util.Random;
