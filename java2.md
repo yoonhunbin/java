@@ -1,5 +1,5 @@
 홀 짝 맞추기
-```
+```java
 package homework;
 
 import java.util.Random;
@@ -32,7 +32,7 @@ public class Myprofile {
 	}
 ```
 캐릭터 움직이기
-```
+```java
 package homework;
 
 import java.util.Random;
