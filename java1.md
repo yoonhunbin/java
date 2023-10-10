@@ -1,5 +1,5 @@
 1~100까지의 합
-```
+```java
 package homework;
 
 public class Myprofile {
@@ -16,8 +16,9 @@ System.out.print("1~100까지의 합" + num1);
     }	
 	}
 ```
+
 100개의 숫자중 중복없이 3개 뽑기
-```
+```java
 package homework;
 
 import java.util.*;
@@ -42,9 +43,12 @@ public class Myprofile2 {
     }
 	}
 ```
-import java utli*;
 
-Random r = new Random();
-Scanner s = new Scanner(System.in);
-Random = 난수 만들기
-Scanner = 파이썬의 input하고 비슷하다.
+```java
+import java.utli.*;
+
+Random r = new Random();  
+Scanner s = new Scanner(System.in);  
+```
+`Random` = 난수 만들기  
+`Scanner` = 파이썬의 input하고 비슷하다.
