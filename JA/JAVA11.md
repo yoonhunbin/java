@@ -1,4 +1,4 @@
-<h1>w자동차</h1>
+<h1>자동차</h1>
 ```
 package homework;
 
