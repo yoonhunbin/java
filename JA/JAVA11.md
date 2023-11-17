@@ -14,7 +14,7 @@ public class Car {
 	int km; //주행거리
 	Random r = new Random();
 	
-	public Car(String c, int m, int a) {
+	public void Car(String c, int m, int a) {
 		carName = c;
 		max = m;
 		acc = a;
