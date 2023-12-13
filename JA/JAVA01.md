@@ -52,3 +52,4 @@ Scanner s = new Scanner(System.in);
 ```
 `Random` = 난수 만들기  
 `Scanner` = 파이썬의 input하고 비슷하다.
+끝.
